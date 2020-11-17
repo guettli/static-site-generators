@@ -24,4 +24,8 @@ License: MIT
 Frontend: Vue
 Editor: none
 
+## netlify cms
 
+https://github.com/netlify/netlify-cms
+
+An admin GUI for SSGs.
