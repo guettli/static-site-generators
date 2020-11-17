@@ -29,3 +29,12 @@ Editor: none
 https://github.com/netlify/netlify-cms
 
 An admin GUI for SSGs.
+
+## Lektor
+
+https://www.getlektor.com/
+
+License: BSD
+Frontend: none
+Editor: Web GUI
+Language: Python
