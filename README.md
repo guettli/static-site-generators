@@ -6,6 +6,8 @@ For small homepages you don't need a CMS. A static site generators (SSG) is enou
 
 There far too many options ....
 
+The list is long: [static-site-generator list a github](https://github.com/topics/static-site-generator)
+
 ## Publii
 
 [Publii](https://getpublii.com/)
