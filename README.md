@@ -38,3 +38,10 @@ License: BSD
 Frontend: none
 Editor: Web GUI
 Language: Python
+
+## mkdocs material
+
+https://github.com/squidfunk/mkdocs-material
+
+License: MIT
+Language: TypeScript
