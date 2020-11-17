@@ -1,5 +1,11 @@
 # List of static site generators
 
+## Introduction
+
+For small homepages you don't need a CMS. A static site generators (SSG) is enough.
+
+There far too many options ....
+
 ## Publii
 
 [Publii](https://getpublii.com/)
