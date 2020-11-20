@@ -8,6 +8,8 @@ There far too many options ....
 
 The list is long: [static-site-generator list a github](https://github.com/topics/static-site-generator)
 
+The fun fact: Most people think a SSG needs to work on markdown files (instead of HTML) and provides no GUI. I think this is just the way many SSG work, but there are many more options to create a static site. Why not create a static site via a nice Web-GUI with a DB backend? You just need a final build-step which creates static files from the data stored in the database.
+
 ## Publii
 
 [Publii](https://getpublii.com/)
