@@ -14,17 +14,17 @@ The fun fact: Most people think a SSG needs to work on markdown files (instead o
 
 [Publii](https://getpublii.com/)
 
-License: GPL 3.0 
-Frontend: Vue 
-Editor: native GUI 
+License: GPL 3.0  
+Frontend: Vue  
+Editor: native GUI  
 
 ## Vuepress
 
 https://vuepress.vuejs.org/
 
-License: MIT 
-Frontend: Vue 
-Editor: none 
+License: MIT  
+Frontend: Vue  
+Editor: none  
 
 ## netlify cms
 
@@ -36,15 +36,15 @@ An admin GUI for SSGs.
 
 https://www.getlektor.com/
 
-License: BSD 
-Frontend: none 
-Editor: Web GUI 
-Language: Python 
+License: BSD  
+Frontend: none  
+Editor: Web GUI  
+Language: Python  
 
 ## mkdocs material
 
 https://github.com/squidfunk/mkdocs-material
 
-License: MIT 
-Language: TypeScript 
-Editor: None (but maybe netlify cms could be used) 
+License: MIT  
+Language: TypeScript  
+Editor: None (but maybe netlify cms could be used)  
