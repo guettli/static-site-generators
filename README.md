@@ -48,3 +48,8 @@ https://github.com/squidfunk/mkdocs-material
 License: MIT  
 Language: TypeScript  
 Editor: None (but maybe netlify cms could be used)  
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
+
