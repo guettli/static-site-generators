@@ -53,9 +53,9 @@ Editor: None
 
 https://github.com/getpelican/pelican
 
-License:  AGPL-3.0
-Language: Python
-Editor: None
+License:  AGPL-3.0  
+Language: Python  
+Editor: None  
 
 # More
 
