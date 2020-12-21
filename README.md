@@ -65,6 +65,9 @@ License: MIT
 Language: JavaScript
 Editor: None
 
+High satisfaction score: https://slides.com/seldo/jamstack-survey-2020#/29
+
+
 # More
 
 [Thomas WOL: Working out Loud](https://github.com/guettli/wol)
