@@ -57,6 +57,14 @@ License:  AGPL-3.0
 Language: Python  
 Editor: None  
 
+## 11ty
+
+https://github.com/11ty/eleventy
+
+License: MIT
+Language: JavaScript
+Editor: None
+
 # More
 
 [Thomas WOL: Working out Loud](https://github.com/guettli/wol)
