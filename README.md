@@ -10,16 +10,13 @@ The list is long: [static-site-generator list a github](https://github.com/topic
 
 The fun fact: Most people think a SSG needs to work on markdown files (instead of HTML) and provides no GUI. I think this is just the way many SSG work, but there are many more options to create a static site. Why not create a static site via a nice Web-GUI with a DB backend? You just need a final build-step which creates static files from the data stored in the database.
 
-## Gatsby
-
-[gatsby](https://github.com/gatsbyjs/gatsby)
-
-React frontend.
 
 ## Hugo
 [hugo](https://github.com/gohugoio/hugo)
 
 Hugo: Fast, written in go.
+
+Support for tags: https://gohugo.io/templates/taxonomy-templates/
 
 ## Publii
 
@@ -77,6 +74,12 @@ Language: JavaScript
 Editor: None
 
 High satisfaction score: https://slides.com/seldo/jamstack-survey-2020#/29
+
+## Gatsby
+
+[gatsby](https://github.com/gatsbyjs/gatsby)
+
+React frontend. I want html, not react.
 
 
 # More
