@@ -16,6 +16,11 @@ The fun fact: Most people think a SSG needs to work on markdown files (instead o
 
 React frontend.
 
+## Hugo
+[hugo](https://github.com/gohugoio/hugo)
+
+Hugo: Fast, written in go.
+
 ## Publii
 
 [Publii](https://getpublii.com/)
